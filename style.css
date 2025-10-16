@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa-header {
+.app-header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa-header img {
+.app-header img {
   width: 100%;
 }
-.aaa-header .more-info {
+.app-header .more-info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-.aaa-header { 
+.app-header { 
   text-align: center;
 }
 }
