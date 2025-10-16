@@ -5,21 +5,21 @@ body {
   font-family: Lato, sans-serif;
 }
 .aaa-header {
-    width: 500px;
-    margin: 0 auto;
-    display: block;
-    text-align: right;
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  text-align: right;
 }
 .aaa-header img {
-    width: 100%;
+  width: 100%;
 }
 .aaa-header .more-info {
-    font-family: fantasy, cursive;
+  font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
 .aaa-header { 
-    text-align: center;
+  text-align: center;
 }
 }
 .todo-container {
